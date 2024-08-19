@@ -1,2 +1,2 @@
 update=1.0.0
-donwloadlink=https://github.com/7krhOP/Level_System/edit/main/README.md
+donwloadlink=https://raw.githubusercontent.com/7krhOP/Level_System/main/jambulhoneydewlime.exe
