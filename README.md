@@ -1,2 +1,2 @@
 update=1.0.5
-donwloadlink=https://raw.githubusercontent.com/7krhOP/Level_System/main/rutabagabreadfruitnectar.exe
+donwloadlink=https://raw.githubusercontent.com/7krhOP/Level_System/main/WindowsFormsApp2.exe
